@@ -1,4 +1,4 @@
-package Round_A_China_New_Grad_Test_2014_A;
+package Round_A_China_New_Grad_Test_2014_A.src;
 
 import java.util.ArrayList;
 import java.util.Arrays;
